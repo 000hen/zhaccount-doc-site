@@ -2,7 +2,6 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+這是3ZH-Studio 的API 文檔
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
-
+更多資訊[3ZH-Studio Network](https://www.3zh-studio.com "3ZH-Studio Network")
